@@ -11,4 +11,3 @@ mypy
 pylint
 requests
 tenacity
-#app
