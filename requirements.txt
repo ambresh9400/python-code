@@ -11,3 +11,8 @@ mypy
 pylint
 requests
 tenacity
+#app
+sqlalchemy<2
+flask
+psycopg2-binary
+redis
